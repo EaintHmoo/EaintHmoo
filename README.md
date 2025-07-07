@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 🐘 PHP | Laravel  
 - 🐬 MySQL | Mongodb
 - ☁️ AWS
+- 🐍 Python
 
 **Tools & Platforms:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 
 ---
 
