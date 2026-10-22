@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 
 > 👋 Hey there! I'm a full-stack developer who loves building cool stuff with code.  
-> 🚀 I’m currently diving into DevOps tools, AWS, Docker, and CI/CD.
+> 🚀 I’m currently diving into ExpressJs, DevOps tools, AWS, Docker, and CI/CD.
 
 ---
 
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 - ✉️ Email: [eanithmooaung@gmail.com](mailto:eanithmooaung@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/eaint-hmoo-aung-82278a1b7](https://www.linkedin.com/in/eaint-hmoo-aung-82278a1b7/)
-
 ---
 
 ## ⭐ Thank You!
